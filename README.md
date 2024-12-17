@@ -2,8 +2,8 @@
 Full stack developer with great passion for frontend, UX/UI and the backend
 Bachelor's degree in computer system engineering at Fidélitas University ![desarrollo-web](https://github.com/user-attachments/assets/2b505da1-6b3d-4a43-a77e-f22b6c80ff1f)
 
+![user-interface (1)](https://github.com/user-attachments/assets/469c0439-811c-4e12-8970-d089a7fbfa70)
 
-![user-interface](https://github.com/user-attachments/assets/9aae8216-fa83-44d3-ac09-34b954aff258)
 I am currently creating a wedding invitation for a couple of groom and bride
 as a freelancer, this is being done with html, css and js.
 
