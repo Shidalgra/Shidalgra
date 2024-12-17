@@ -1,6 +1,7 @@
 ## Hello there I'm Sergio Hidalgo 👋
 Full stack developer with great passion for frontend, UX/UI and the backend
-Bachelor's degree in computer system engineering at Fidélitas University ![desarrollo-web](https://github.com/user-attachments/assets/2b505da1-6b3d-4a43-a77e-f22b6c80ff1f)
+Bachelor's degree in computer system engineering at Fidélitas University ![desarrollo-web (1)](https://github.com/user-attachments/assets/3f553a1d-eca0-4685-b434-7bb3d6f0920c)
+
 
 ![user-interface (1)](https://github.com/user-attachments/assets/469c0439-811c-4e12-8970-d089a7fbfa70)
 
