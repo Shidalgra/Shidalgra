@@ -32,7 +32,8 @@ ________________________________________________________________________________
 
   ## Backend
 
-![PuntoNet](https://github.com/user-attachments/assets/144002ee-4552-4b0c-a549-8f0ccbc0071f) ![c#](https://github.com/user-attachments/assets/14b2bf82-47f2-40e2-a326-73c05b4a9072) ![Java](https://github.com/user-attachments/assets/5dea0e98-39a2-46dd-be6b-2e2c45d014fa) ![Phyton](https://github.com/user-attachments/assets/68910582-88ef-464b-9af6-7b649a025468)
+![PuntoNet](https://github.com/user-attachments/assets/144002ee-4552-4b0c-a549-8f0ccbc0071f) ![c#](https://github.com/user-attachments/assets/14b2bf82-47f2-40e2-a326-73c05b4a9072) ![Java](https://github.com/user-attachments/assets/5dea0e98-39a2-46dd-be6b-2e2c45d014fa) ![Phyton](https://github.com/user-attachments/assets/68910582-88ef-464b-9af6-7b649a025468) ![nodeJs](https://github.com/user-attachments/assets/ba1baefd-c577-42a3-8d16-033e34ad6bae)
+
 
 ______________________________________________________________________________________________
 ## Databases
