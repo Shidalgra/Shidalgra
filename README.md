@@ -1,4 +1,4 @@
-## Hello there I'm Sergio Hidalgo 👋
+![Azure](https://github.com/user-attachments/assets/28aa1d6c-bacd-4109-b40f-9c25e74ffdbe)## Hello there I'm Sergio Hidalgo 👋
 Full stack developer with great passion for frontend ![desarrollo-web (1)](https://github.com/user-attachments/assets/3f553a1d-eca0-4685-b434-7bb3d6f0920c)
 
 UX/UI ![interfaz-de-usuario](https://github.com/user-attachments/assets/85203985-1e07-4e70-98ed-88175323a289)
@@ -50,7 +50,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________
 ## Other tools
 
-![vscommunity](https://github.com/user-attachments/assets/0c7bcd9f-f4f8-4ccf-a008-cbefed5539d1) ![vscode](https://github.com/user-attachments/assets/849bf3b0-a69e-4f4e-add6-0aa00347bf95) ![git](https://github.com/user-attachments/assets/8592ca78-b9ce-485f-8cc0-a23e589169b8) ![Postman](https://github.com/user-attachments/assets/d42cd5b4-7809-4ad0-a74a-e22f2253a9d9) ![AzureDevops](https://github.com/user-attachments/assets/f18217c0-4643-4f01-b81a-8ecf8f84b0b7) ![Oracle](https://github.com/user-attachments/assets/53341f74-6c3c-484e-801a-4afe596e22a2) ![GitHub](https://github.com/user-attachments/assets/857a72ea-4c76-4d23-b227-645d4c91abac) ![Figma](https://github.com/user-attachments/assets/40803390-d01f-4ae3-a2c3-3181a5c9e421)
+![vscommunity](https://github.com/user-attachments/assets/0c7bcd9f-f4f8-4ccf-a008-cbefed5539d1) ![vscode](https://github.com/user-attachments/assets/849bf3b0-a69e-4f4e-add6-0aa00347bf95) ![git](https://github.com/user-attachments/assets/8592ca78-b9ce-485f-8cc0-a23e589169b8) ![Azure](https://github.com/user-attachments/assets/bb6a6e96-a3e4-4c4a-bebf-5aeb823cdc82) ![Postman](https://github.com/user-attachments/assets/d42cd5b4-7809-4ad0-a74a-e22f2253a9d9) ![Oracle](https://github.com/user-attachments/assets/53341f74-6c3c-484e-801a-4afe596e22a2) ![GitHub](https://github.com/user-attachments/assets/857a72ea-4c76-4d23-b227-645d4c91abac) ![Figma](https://github.com/user-attachments/assets/40803390-d01f-4ae3-a2c3-3181a5c9e421)
 
 
 
