@@ -50,7 +50,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________
 ## Other tools
 
-![vscommunity](https://github.com/user-attachments/assets/0c7bcd9f-f4f8-4ccf-a008-cbefed5539d1) ![vscode](https://github.com/user-attachments/assets/849bf3b0-a69e-4f4e-add6-0aa00347bf95) ![git](https://github.com/user-attachments/assets/8592ca78-b9ce-485f-8cc0-a23e589169b8) ![Azure](https://github.com/user-attachments/assets/8f86c2f1-3de7-46a9-ad39-22dfae7f852f) ![Postman](https://github.com/user-attachments/assets/d42cd5b4-7809-4ad0-a74a-e22f2253a9d9)   ![Oracle](https://github.com/user-attachments/assets/53341f74-6c3c-484e-801a-4afe596e22a2)   ![GitHub](https://github.com/user-attachments/assets/857a72ea-4c76-4d23-b227-645d4c91abac) ![Figma](https://github.com/user-attachments/assets/40803390-d01f-4ae3-a2c3-3181a5c9e421)
+![vscommunity](https://github.com/user-attachments/assets/0c7bcd9f-f4f8-4ccf-a008-cbefed5539d1) ![vscode](https://github.com/user-attachments/assets/849bf3b0-a69e-4f4e-add6-0aa00347bf95) ![git](https://github.com/user-attachments/assets/8592ca78-b9ce-485f-8cc0-a23e589169b8) ![Azure](https://github.com/user-attachments/assets/036853fc-0e85-41f6-9af6-cfff5522aa7a) ![Postman](https://github.com/user-attachments/assets/d42cd5b4-7809-4ad0-a74a-e22f2253a9d9) ![Oracle](https://github.com/user-attachments/assets/475d3aa5-e018-420e-b3f6-7f0cb4ac2d93) ![GitHub](https://github.com/user-attachments/assets/857a72ea-4c76-4d23-b227-645d4c91abac) ![Figma](https://github.com/user-attachments/assets/40803390-d01f-4ae3-a2c3-3181a5c9e421)
 
 
 
