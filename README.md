@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
   ## Sql
 
-![SqlServer](https://github.com/user-attachments/assets/6c2ae3b5-4e18-466a-9ec6-eb00888ef444) ![MySql](https://github.com/user-attachments/assets/8a177395-78d2-416a-bf19-9bcde89c09d5) ![SqlDeveloper](https://github.com/user-attachments/assets/6e8adf47-9f1e-460d-9ab3-b0a6384e8080)
+![SqlServer](https://github.com/user-attachments/assets/6c2ae3b5-4e18-466a-9ec6-eb00888ef444) ![MySql](https://github.com/user-attachments/assets/8a177395-78d2-416a-bf19-9bcde89c09d5)  ![SqlDeveloper](https://github.com/user-attachments/assets/6e8adf47-9f1e-460d-9ab3-b0a6384e8080)
 
   ## NoSQL
 
